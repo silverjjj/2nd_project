@@ -34,7 +34,7 @@
 
   
 
-![img](https://blog.kakaocdn.net/dn/bOjw03/btqPql2eIg0/zGEMSEHIXne1N5FPr98eWk/img.png)
+<img src="https://blog.kakaocdn.net/dn/bOjw03/btqPql2eIg0/zGEMSEHIXne1N5FPr98eWk/img.png" alt="img" style="zoom:50%;" />
 
 
 
@@ -301,18 +301,16 @@ nowclicked() {
 
 ![img](https://blog.kakaocdn.net/dn/6vNmz/btqPqlVlIrn/Q4q2lAPashMzY5nmP38OH0/img.png)
 
- [주요 화면.pdf](..\..\Downloads\Export-acb965bf-1020-4db3-9311-827d4672db48\수상한 동물사전 5d6679f1f7dd4ccab4d2246e290940bd\주요 화면.pdf) 
+ [화면 더 보기....pdf](Docs\화면 더 보기....pdf) 
 
 
 
 ### 소개 UCC 
 
-<iframe width="782" height="440" src="https://www.youtube.com/embed/z_UUmDXXtuk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[클릭](https://www.youtube.com/watch?v=z_UUmDXXtuk)해주세요.
 
 
 
 ### 참고자료
 
- [발표자료.pdf](..\..\Downloads\Export-acb965bf-1020-4db3-9311-827d4672db48\수상한 동물사전 5d6679f1f7dd4ccab4d2246e290940bd\발표자료.pdf) 
-
- [와이어프레임.pdf](..\..\Downloads\Export-acb965bf-1020-4db3-9311-827d4672db48\수상한 동물사전 5d6679f1f7dd4ccab4d2246e290940bd\와이어프레임.pdf) 
+ [최종 발표자료.pdf](Docs\최종 발표자료.pdf) 
